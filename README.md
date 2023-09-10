@@ -4,6 +4,9 @@
 
 A page transition component for Next.js in appdir mode, using framer-motion for animation support.
 
+## Demo
+[codesandbox](https://codesandbox.io/p/sandbox/affectionate-carlos-7z9p8s?file=%2Fapp%2Ftest%2Fpage.tsx%3A52%2C20)
+
 ## Installation
 
 ```bash
