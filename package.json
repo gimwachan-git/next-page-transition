@@ -1,6 +1,6 @@
 {
   "name": "@gimwa/next-page-transition",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A page transition component for Next.js in appdir mode, using framer-motion for animation support.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -26,6 +26,10 @@
     "url": "https://gimwa.vercel.app/"
   },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/your-repo.git"
+  },
   "dependencies": {
     "framer-motion": "^10.16.4",
     "next": "^13.4.19",
